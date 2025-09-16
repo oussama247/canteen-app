@@ -71,7 +71,7 @@ export const mockWeeklyMenu: WeeklyMenu = {
           price: 3.10,
           category: 'volaille',
           allergens: ['gluten'],
-          imageUrl: 'https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress&cs=tinysrgb&w=400',
+          imageUrl: 'https://images.pexels.com/photos/262945/pexels-photo-262945.jpeg',
           sourcing: {
             organic: false,
             local: true,
@@ -97,7 +97,7 @@ export const mockWeeklyMenu: WeeklyMenu = {
           price: 3.50,
           category: 'viande',
           allergens: ['sulfites'],
-          imageUrl: 'https://images.pexels.com/photos/4518843/pexels-photo-4518843.jpeg?auto=compress&cs=tinysrgb&w=400',
+          imageUrl: 'https://images.pexels.com/photos/33433980/pexels-photo-33433980.jpeg?auto=compress&cs=tinysrgb&w=400',
           sourcing: {
             organic: false,
             local: true,
@@ -123,7 +123,7 @@ export const mockWeeklyMenu: WeeklyMenu = {
           price: 4.20,
           category: 'poisson',
           allergens: ['poisson'],
-          imageUrl: 'https://images.pexels.com/photos/1516415/pexels-photo-1516415.jpeg?auto=compress&cs=tinysrgb&w=400',
+          imageUrl: 'https://images.pexels.com/photos/33706292/pexels-photo-33706292.jpeg?auto=compress&cs=tinysrgb&w=400',
           sourcing: {
             organic: true,
             local: false,
